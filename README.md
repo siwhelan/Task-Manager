@@ -46,8 +46,10 @@ The program will run continuously, taking prompts from user input until the exit
 ## Screenshots
 
 ![App Screenshot 1](https://i.imgur.com/SgD8kIy.jpg)
-![App Screenshot 1](https://i.imgur.com/MbvJRu9.jpg)
-![App Screenshot 1](https://i.imgur.com/s3spFjo.jpg)
+
+![App Screenshot 2](https://i.imgur.com/MbvJRu9.jpg)
+
+![App Screenshot 3](https://i.imgur.com/s3spFjo.jpg)
 
 ## Feedback
 
