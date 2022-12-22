@@ -43,7 +43,11 @@ The program allows the user to do the following -
 
 The program will run continuously, taking prompts from user input until the exit function is called. Incorrect input is anticipated throughout, and erros/solutions are put in place to prevent crashes and guide the user to the correct approach.
 
+## Screenshots
 
+![App Screenshot 1](https://i.imgur.com/SgD8kIy.jpg)
+![App Screenshot 1](https://i.imgur.com/MbvJRu9.jpg)
+![App Screenshot 1](https://i.imgur.com/s3spFjo.jpg)
 
 ## Feedback
 
